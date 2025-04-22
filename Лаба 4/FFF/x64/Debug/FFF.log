@@ -1,0 +1,3 @@
+﻿  FFF.cpp
+C:\Users\Admin\source\repos\FFF\FFF.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  FFF.vcxproj -> C:\Users\Admin\source\repos\FFF\x64\Debug\FFF.exe
