@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\TSPVisualization.MainForm.resources
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\КомиВояжёр.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\КомиВояжёр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\КомиВояжёр.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\КомиВояжёр.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\КомиВояжёр.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\bin\Debug\net8.0-windows\КомиВояжёр.exe
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\bin\Debug\net8.0-windows\КомиВояжёр.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\bin\Debug\net8.0-windows\КомиВояжёр.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\bin\Debug\net8.0-windows\КомиВояжёр.dll
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\bin\Debug\net8.0-windows\КомиВояжёр.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\КомиВояжёр.dll
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\refint\КомиВояжёр.dll
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\КомиВояжёр.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\КомиВояжёр.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\КомиВояжёр\SimpleCalculator\obj\Debug\net8.0-windows\ref\КомиВояжёр.dll
