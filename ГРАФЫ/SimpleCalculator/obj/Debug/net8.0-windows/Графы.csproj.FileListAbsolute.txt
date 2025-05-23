@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\bin\Debug\net8.0-windows\Графы.exe
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\bin\Debug\net8.0-windows\Графы.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\bin\Debug\net8.0-windows\Графы.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\bin\Debug\net8.0-windows\Графы.dll
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\bin\Debug\net8.0-windows\Графы.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\GraphVisualization.GraphForm.resources
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\Графы.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\Графы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\Графы.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\Графы.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\Графы.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\Графы.dll
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\refint\Графы.dll
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\Графы.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\Графы.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ГРАФЫ\SimpleCalculator\obj\Debug\net8.0-windows\ref\Графы.dll
